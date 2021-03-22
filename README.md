@@ -21,13 +21,13 @@
 </h4>
 
 <p align="center">
- <a href="#-sobre">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#sobre">Sobre</a> •
+ <a href="#funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
- <a href="#-como-executar">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> •
- <a href="#-licença">Licença</a>
+ <a href="#como-executar">Como executar</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#autor">Autor</a> •
+ <a href="#licença">Licença</a>
 </p>
 <br/>
 
